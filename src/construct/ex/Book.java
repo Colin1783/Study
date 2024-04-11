@@ -5,7 +5,6 @@ public class Book {
 	String author;
 	int page;
 
-	// TODO 코드를 완성하세요
 	Book () {
 		this("", "",0);
 	}
